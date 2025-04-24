@@ -17,7 +17,7 @@ body {
     padding: 20px;
     display: flex;
     flex-direction: column;
-    align-items: center; /* Centraliza o conteúdo da container */
+    align-items: center; 
 }
 
 header {
@@ -49,7 +49,7 @@ header h1 {
 h2 {
     color: #0d6efd;
     margin-bottom: 15px;
-    text-align: center; /* Garante que os h2 também fiquem centralizados */
+    text-align: center;
 }
 
 ul {
@@ -76,7 +76,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: center; /* Certificando-se de que os certificados estão centralizados */
+    justify-content: center;
     margin-top: 20px;
 }
 
@@ -100,7 +100,7 @@ footer {
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
-    justify-content: center; /* Centraliza os projetos */
+    justify-content: center; 
     margin-top: 20px;
 }
 
